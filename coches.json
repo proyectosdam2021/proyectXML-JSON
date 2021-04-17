@@ -1,0 +1,21 @@
+{
+   "concesionario" : {
+      "cocheList" : {
+         "coche" : [ {
+            "marca" : "Toyota",
+            "modelo" : "CHR",
+            "color" : "Blanco Perla"
+         }, {
+            "marca" : "Nissan",
+            "modelo" : "Quasqai",
+            "color" : "Azul"
+         }, {
+            "marca" : "Mercedes Benz",
+            "modelo" : "EQA",
+            "color" : "Negro"
+         } ]
+      },
+      "nombre" : "MiConcesionario",
+      "localizacion" : "Telde"
+   }
+}
